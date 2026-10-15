@@ -3,4 +3,4 @@
 :HL["/szhrf-preview/images/factory005.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"capabilities","h":96,"c":"$Q2"}]]
-0:{"b":"47VRKEZ2jgPmKlsJ7o8kn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VZbsnZ-VJ9zvLcfRd8lWn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
