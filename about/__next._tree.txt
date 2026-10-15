@@ -1,6 +1,6 @@
-:HL["/szhrf-preview/_next/static/chunks/0vp012lw9924n.css","style"]
-:HL["/szhrf-preview/_next/static/chunks/4426nzxax9-70.css","style"]
+:HL["/szhrf-preview/_next/static/chunks/2-2bo3s5g82km.css","style"]
+:HL["/szhrf-preview/_next/static/chunks/0zhwsir5a0e4p.css","style"]
 :HL["/szhrf-preview/images/company.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
-0:{"b":"VZbsnZ-VJ9zvLcfRd8lWn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"LoHaUpTX7jbws5SCcy0HW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
