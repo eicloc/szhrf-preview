@@ -1,7 +1,7 @@
-:HL["/szhrf-preview/_next/static/chunks/2-2bo3s5g82km.css","style"]
+:HL["/szhrf-preview/_next/static/chunks/2sr4z73c2h6eo.css","style"]
 :HL["/szhrf-preview/_next/static/chunks/0zhwsir5a0e4p.css","style"]
 :HL["/szhrf-preview/images/gift-2.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"gift-2","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131168,"c":"$Q2"}]]
-0:{"b":"LoHaUpTX7jbws5SCcy0HW","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"rKJ9dc-ZIR05Rp9ih59MC","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
